@@ -1,0 +1,22 @@
+AS	=	MASM
+ASFLAGS	=	
+
+IPLSYS.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+CODIPL.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+CODSYS.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+SYSSET.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+SCWRT.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+MACLIB.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+

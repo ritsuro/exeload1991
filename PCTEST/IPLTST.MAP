@@ -1,0 +1,60 @@
+
+ Start  Stop   Length Name                   Class
+ 00000H 00304H 00305H IPL                    
+ 00310H 003D7H 000C8H STACK                  
+ 003E0H 00A97H 006B8H CODE                   CODE
+ 00AA0H 00E41H 003A2H DATA                   DATA
+
+  Address         Publics by Name
+
+ 003E:0553       BINSTR
+ 003E:05E8       CHPUT
+ 003E:05AE       CLS
+ 003E:05D3       CSLOFF
+ 003E:05C9       CSLON
+ 003E:0650       D10STR
+ 003E:0452       DECSTR
+ 003E:04E4       HEXSTR
+ 003E:05DD       INPCHR
+ 003E:0489       INPUT
+ 003E:05EF       KESCAP
+ 003E:0631       KEYLOD
+ 003E:0647       LFPRN
+ 003E:0646       LOCATE
+ 003E:06B1       MEMCPY
+ 003E:043B       PRINT
+ 003E:0632       PRNAB
+ 003E:0400       PRNAH
+ 003E:057F       STRBIN
+ 003E:059C       STRCMP
+ 003E:04AA       STRDEC
+ 003E:0526       STRHEX
+ 003E:0695       STRZTS
+
+  Address         Publics by Value
+
+ 003E:0400       PRNAH
+ 003E:043B       PRINT
+ 003E:0452       DECSTR
+ 003E:0489       INPUT
+ 003E:04AA       STRDEC
+ 003E:04E4       HEXSTR
+ 003E:0526       STRHEX
+ 003E:0553       BINSTR
+ 003E:057F       STRBIN
+ 003E:059C       STRCMP
+ 003E:05AE       CLS
+ 003E:05C9       CSLON
+ 003E:05D3       CSLOFF
+ 003E:05DD       INPCHR
+ 003E:05E8       CHPUT
+ 003E:05EF       KESCAP
+ 003E:0631       KEYLOD
+ 003E:0632       PRNAB
+ 003E:0646       LOCATE
+ 003E:0647       LFPRN
+ 003E:0650       D10STR
+ 003E:0695       STRZTS
+ 003E:06B1       MEMCPY
+
+Program entry point at 003E:0000

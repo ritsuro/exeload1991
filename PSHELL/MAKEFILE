@@ -1,0 +1,85 @@
+AS	=	MASM
+ASFLAGS	=	
+
+PSHELL.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+PSHELL.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+PSMAIN.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+SSDIR.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+SSTYPE.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+SSLOAD.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+SSPROC.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+SSADRS.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+SSDEBU.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+SSVIDEO.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+SSFILE.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+VVIMAGE.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+VVDSKBET.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+VVDSKPLT.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+VVPLTTBL.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+VVPLTSET.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+VVADVPLT.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+DKLDSV.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+INT21H.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+DOSIO.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+DOSWRT.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+READWT.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+READSC.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+READCH.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+READBF.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+MACLIB.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+CONSOLE.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+

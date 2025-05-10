@@ -1,0 +1,19 @@
+AS	=	MASM
+ASFLAGS	=	
+
+DKCOPY.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+LOADSAVE.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+FDTRACK.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+FDMEDIA.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+MACLIB.OBJ	:	$*.ASM
+	$(AS) $(ASFLAGS) $*.ASM,$@;
+
+
