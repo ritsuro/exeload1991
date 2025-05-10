@@ -14,8 +14,8 @@ PCのフロッピーディスク専用のオリジナルDOS『EXELOAD』のソ�
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 
 ; "README.DOC" J-3100GS001 make by R.Hashimoto 1991/08/06  
-;						1991/09/20  
-;						1991/12/28  
+;                                              1991/09/20  
+;                                              1991/12/28  
   
   EXELOAD/world-PC ver0.25 (C) R.Hashimoto 1989,1990,1991 in tokyo japan.  
   PSHELL/world-PC ver0.13  (C) R.Hashimoto 1989,1990,1991 in tokyo japan.  
@@ -390,7 +390,7 @@ PCのフロッピーディスク専用のオリジナルDOS『EXELOAD』のソ�
 		       加算したのがプログラムサイズです。
 
 ;  
-;	end of "README.DOC"  
+;        end of "README.DOC"  
 ;  
 
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
