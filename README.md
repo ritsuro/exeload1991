@@ -396,7 +396,7 @@ PCのフロッピーディスク専用のオリジナルDOS『EXELOAD』のソ�
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 ここまで
 
-VGA output.
+directory date....  
 !["picture"](p1991i8086.jpg)  
 
 r.h 2025/5/10
